@@ -16,8 +16,11 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^5.1.0",
+    "form-data": "^4.0.2",
+    "node-fetch": "^3.3.2",
     "nodemon": "^3.1.9",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "uploadthing": "^7.6.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
